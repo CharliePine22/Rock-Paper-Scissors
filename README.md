@@ -1,0 +1,1 @@
+'Uploaded inital code without any loop system into it. Also want to see if i can try to shorten the code'
