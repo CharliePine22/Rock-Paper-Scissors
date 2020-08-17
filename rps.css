@@ -1,0 +1,33 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.contain {
+    text-align: center;
+}
+
+.container {
+    float: left;
+    width: 33.33%;
+    padding-top: 100px;
+}
+
+.intro {
+    text-align: center;
+}
+
+#cscore {
+    color: aqua;
+}
+
+#pscore {
+    color: aqua;
+}
